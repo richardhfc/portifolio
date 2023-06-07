@@ -5,10 +5,10 @@ h2{
     color: rgb(0, 0, 0);
     text-align: center;
     margin-top: 0%;
-    margin-right:25% ;
+    margin-right:19% ;
     margin-bottom: 0;
     font-family: Segoe UI;
-    font-size: 4vw;
+    font-size: 4.5vw;
     -webkit-text-stroke: 0.1vw rgb(255, 255, 255);
     text-shadow: 0.1vw rgb(255, 255, 255);
     
@@ -32,7 +32,7 @@ h1{
     -webkit-text-stroke: 0.015vw rgb(0, 0, 0);
     text-shadow: 0.015vw rgb(0, 0, 0);
     position: absolute;
-    top: 100%;
+    top: 102%;
     left:calc(63% + 10px);
     transform: translate(-50%, -50%);
 }
