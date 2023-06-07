@@ -2,21 +2,20 @@
     background-color: lightblue;
 }
 h2{
-    color: rgb(0, 0, 0);
-    text-align: center;
+    color: rgb(68, 148, 174);
+    text-align: left;
     margin-top: 0%;
-    margin-right:19% ;
-    margin-bottom: 0;
     font-family: Segoe UI;
-    font-size: 4.5vw;
-    -webkit-text-stroke: 0.05vw rgb(255, 255, 255);
-    text-shadow: 0.05vw rgb(255, 255, 255);
+    font-size: 2vw;
+    position: absolute;
+    left:calc(26.8% + 10px);
+    transform: translate(-50%, -50%);
     
 }
 .dev{
     color: rgb(255, 255, 255);
     margin-left: 17%;
-    margin-top: 0;
+    margin-top: 5%;
     margin-bottom: 0;
     font-family:Impact;
     font-size: 15vw;
@@ -25,12 +24,10 @@ h2{
 }
 
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(68, 148, 174);
     text-align: right;
     font-family: Segoe UI;
     font-size: 2vw;
-    -webkit-text-stroke: 0.015vw rgb(0, 0, 0);
-    text-shadow: 0.015vw rgb(0, 0, 0);
     position: absolute;
     top: 102%;
     left:calc(63% + 10px);
@@ -43,7 +40,7 @@ h1{
 
 .git{
     position: absolute;
-    top: 35%;
+    top: 25%;
     left:calc(50% + 10px);
     transform: translate(-50%, -50%);
 }
@@ -54,7 +51,7 @@ h1{
 
 .linkedin{
     position: absolute;
-    top: 35%;
+    top: 25%;
     left:calc(62% + 10px);
     transform: translate(-50%, -50%);
 }
@@ -65,7 +62,7 @@ h1{
 
 .document{
     position: absolute;
-    top: 35%;
+    top: 25%;
     left:calc(75% + 10px);
     transform: translate(-50%, -50%);
 }
