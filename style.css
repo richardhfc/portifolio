@@ -3,12 +3,11 @@
 }
 h2{
     color: rgb(68, 148, 174);
-    text-align: left;
     margin-top: 0%;
     font-family: Segoe UI;
     font-size: 2vw;
     position: absolute;
-    left:calc(26.8% + 10px);
+    left:calc(26.7% + 10px);
     transform: translate(-50%, -50%);
     
 }
