@@ -29,8 +29,8 @@ h1{
     text-align: right;
     font-family: Segoe UI;
     font-size: 2vw;
-    -webkit-text-stroke: 0.015vw rgb(255, 255, 255);
-    text-shadow: 0.015vw rgb(255, 255, 255);
+    -webkit-text-stroke: 0.015vw rgb(0, 0, 0);
+    text-shadow: 0.015vw rgb(0, 0, 0);
     position: absolute;
     top: 100%;
     left:calc(63% + 10px);
