@@ -6,7 +6,7 @@ h2{
     margin-top: 0%;
     font-family: Segoe UI;
     font-size: 2vw;
-    position: absolute;
+    position: relative;
     left:calc(26.7% + 10px);
     transform: translate(-50%, -50%);
     
